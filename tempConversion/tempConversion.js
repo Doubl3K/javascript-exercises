@@ -11,7 +11,7 @@ const ctof = function(c) {
 let f;
 
 f = c*(9/5)+32;
-f = Math.round(f*10)/10;
+f = Math.round(*10)/10;
 return f;
 };
 
